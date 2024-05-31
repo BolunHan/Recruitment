@@ -2,7 +2,7 @@
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>
 
-# 【量化研究员】<实习> / <全职> CREO 私募基金招聘量化研究员 北京
+# 【量化研究员】【北京】 <实习> / <全职> CREO 私募基金招聘量化研究员
 
 香港某财团旗下孵化的二级市场初创量化私募基金，专注于二级市场高频量化方向，招聘实习和全职研究员。团队成员均来自于清北复交以及海外名校，有着丰富的量化从业经验和头部公募，私募以及券商的背景。
 - 薪资：实习 5,000 / 月；全职面议。
@@ -41,15 +41,13 @@
 ## 【联系方式】
 
 <table class="contact" style="border-collapse: collapse; border: none;">
-  <thead style="border: none;">
+  <tbody style="border: none;">
     <tr style="border: none;">
       <td style="border: none;">Email:</td>
       <td style="border: none;">
         <a href="mailto:creo_recruitment@outlook.com">creo_recruitment@outlook.com</a>
       </td>
     </tr>
-  </thead>
-  <tbody style="border: none;">
     <tr style="border: none;">
       <td style="border: none;">Phone:</td>
       <td style="border: none;">157-3033-9819</td>
